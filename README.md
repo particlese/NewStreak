@@ -21,14 +21,14 @@ Git is the open source distributed version control system that facilitates GitHu
       <img src="https://i.imgur.com/nBIoqI2.png"><br>
    4. Clone the fork to a local directory:  
       `$ cd .../Documents/GitHub`  
-      `$ git clone https://github.com/[your username]/Lawbreakers.git`
+      `$ git clone https://github.com/[your username]/NewStreak.git`
    5. Create a remote *upstream* to the original repository:  
-      `$ git remote add upstream https://github.com/cjmcgeary/Lawbreakers.git`
+      `$ git remote add upstream https://github.com/cjmcgeary/NewStreak.git`
    6. Start making changes!
 
 ### Making changes
    1. Navigate to the working directory:  
-      `$ cd Lawbreakers`
+      `$ cd NewStreak`
    2. Sync your project with the original:  
       `$ git checkout master`  
       `$ git pull upstream master && git push origin master`
@@ -41,7 +41,7 @@ Git is the open source distributed version control system that facilitates GitHu
       `$ git push origin [branch name]`
    6. Create a new pull request:  
       <img src="https://i.imgur.com/lR8L0uv.png"><br>
-      Note: All changes are reviewed before merging to this repository. If requested to make further changes, just push them to your branch to automatically update the PR. Please use descriptive commit and pull request summaries so we can easily see what you did!
+      Note: All changes are reviewed before merging to this repository. If requested to make further changes, just push them to your branch to automatically update the PR. Please use descriptive commit and pull request summaries to explain your changes!
 
 ## To-Do
 - [ ] Develop
