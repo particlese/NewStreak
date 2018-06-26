@@ -2,15 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.19",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "AdvancedSessions",
-			"Enabled": false
-		},
-		{
-			"Name": "AdvancedSteamSessions",
-			"Enabled": false
-		}
-	]
+	"Description": ""
 }
