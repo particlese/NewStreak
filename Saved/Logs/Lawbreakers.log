@@ -1,0 +1,1481 @@
+﻿Log file open, 07/28/18 12:57:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Lawbreakers
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1788031980) SRandInit(1788031980).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.250783
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Plugins/AdvancedSessions/AdvancedSessions/Binaries/Win64/UE4Editor-AdvancedSessions.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/Win64/UE4Editor-AdvancedSteamSessions.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogStreaming: Display: Took  0.771s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-MSL61SU (10.0.0.140:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.28-17.57.11:263][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.28-17.57.11:263][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.28-17.57.11:272][  0]LogInit: Computer: DESKTOP-MSL61SU
+[2018.07.28-17.57.11:272][  0]LogInit: User: ConnorMcGeary
+[2018.07.28-17.57.11:272][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.28-17.57.11:272][  0]LogInit: High frequency timer resolution =3.914058 MHz
+[2018.07.28-17.57.11:273][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.07.28-17.57.11:273][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.28-17.57.11:273][  0]LogMemory: Process Physical Memory: 275.33 MB used, 275.33 MB peak
+[2018.07.28-17.57.11:273][  0]LogMemory: Process Virtual Memory: 264.65 MB used, 264.65 MB peak
+[2018.07.28-17.57.11:273][  0]LogMemory: Physical Memory: 5809.93 MB used,  10526.31 MB free, 16336.25 MB total
+[2018.07.28-17.57.11:273][  0]LogMemory: Virtual Memory: 4791.14 MB used,  10526.31 MB free, 134217728.00 MB total
+[2018.07.28-17.57.11:287][  0]LogInit: Using OS detected language (en-US).
+[2018.07.28-17.57.11:287][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.28-17.57.11:289][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.28-17.57.11:602][  0]LogStreaming: Display: Took  0.315s to EndInitTextLocalization.
+[2018.07.28-17.57.11:602][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.28-17.57.11:640][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.28-17.57.11:640][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.28-17.57.11:781][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.28-17.57.11:814][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.07.28-17.57.11:814][  0]LogD3D11RHI:       4058/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.28-17.57.11:816][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.28-17.57.11:816][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.28-17.57.11:816][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.28-17.57.11:820][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.28-17.57.11:820][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.28-17.57.11:820][  0]LogWindows: EnumDisplayDevices:
+[2018.07.28-17.57.11:820][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.07.28-17.57.11:820][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.07.28-17.57.11:820][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.07.28-17.57.11:820][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.07.28-17.57.11:820][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.28-17.57.11:820][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.07.28-17.57.11:820][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.28-17.57.11:820][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.28-17.57.11:820][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.07.28-17.57.11:837][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.07.28-17.57.11:837][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.28-17.57.11:837][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.28-17.57.11:887][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.28-17.57.11:972][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Intermediate/Shaders/WorkingDirectory/2452/).
+[2018.07.28-17.57.11:972][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Connor McGeary/AppData/Local/Temp/UnrealShaderWorkingDir/C1660BA9473E821F6CE6A8A23F7E0053/'.
+[2018.07.28-17.57.12:132][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.28-17.57.12:142][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.28-17.57.12:153][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.28-17.57.12:163][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.28-17.57.12:173][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.28-17.57.12:183][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.28-17.57.12:194][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.28-17.57.12:204][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.28-17.57.12:209][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.28-17.57.12:218][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.28-17.57.12:227][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.28-17.57.12:236][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.28-17.57.12:245][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.28-17.57.12:254][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.28-17.57.12:264][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.28-17.57.12:282][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.28-17.57.12:282][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.28-17.57.12:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.28-17.57.12:292][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.28-17.57.12:325][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.28-17.57.12:334][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.28-17.57.12:344][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.28-17.57.12:353][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.28-17.57.12:362][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.28-17.57.12:372][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.28-17.57.12:372][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.28-17.57.12:458][  0]LogXGEController: Cleaning working directory: C:/Users/Connor McGeary/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.28-17.57.12:458][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.28-17.57.12:458][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.28-17.57.12:458][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.28-17.57.12:954][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.28-17.57.13:002][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/Connor McGeary/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.28-17.57.13:002][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Connor McGeary/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.28-17.57.13:002][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.28-17.57.13:002][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.28-17.57.13:002][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.28-17.57.13:002][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.28-17.57.13:013][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.28-17.57.13:025][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Connor McGeary/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.28-17.57.13:025][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.28-17.57.13:025][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.28-17.57.13:034][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.28-17.57.13:034][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.28-17.57.13:035][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.28-17.57.13:035][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.28-17.57.13:129][  0]LogAssetRegistry: FAssetRegistry took 0.0248 seconds to start up
+[2018.07.28-17.57.13:361][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.28-17.57.13:468][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.28-17.57.13:470][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.28-17.57.13:470][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.28-17.57.13:470][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.28-17.57.13:470][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.28-17.57.13:470][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.28-17.57.13:506][  0]LogNetVersion: Lawbreakers , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 254169116)
+[2018.07.28-17.57.13:816][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.055679 seconds
+[2018.07.28-17.57.13:821][  0]LogUObjectArray: 36735 objects as part of root set at end of initial load.
+[2018.07.28-17.57.13:821][  0]LogUObjectAllocator: 7528584 out of 0 bytes used by permanent object pool.
+[2018.07.28-17.57.13:821][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.28-17.57.15:009][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.28-17.57.15:033][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.28-17.57.15:343][  0]SourceControl: Source control is disabled
+[2018.07.28-17.57.15:343][  0]SourceControl: Source control is disabled
+[2018.07.28-17.57.15:357][  0]SourceControl: Source control is disabled
+[2018.07.28-17.57.15:371][  0]SourceControl: Source control is disabled
+[2018.07.28-17.57.15:741][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.28-17.57.15:898][  0]LogOcInput: OculusInput pre-init called
+[2018.07.28-17.57.15:982][  0]LogEngine: Initializing Engine...
+[2018.07.28-17.57.15:983][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.28-17.57.15:984][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.28-17.57.15:984][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.28-17.57.16:137][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.28-17.57.16:172][  0]LogInit: XAudio2 using 'Main Output (Komplete Audio 6 WDM Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-17.57.16:178][  0]LogInit: FAudioDevice initialized.
+[2018.07.28-17.57.16:239][  0]LogDerivedDataCache: Saved boot cache 0.06s 74MB C:/Users/Connor McGeary/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.28-17.57.16:244][  0]LogInit: Texture streaming: Enabled
+[2018.07.28-17.57.16:256][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.28-17.57.16:266][  0]LogInit: Transaction tracking system initialized
+[2018.07.28-17.57.16:284][  0]BlueprintLog: New page: Editor Load
+[2018.07.28-17.57.16:343][  0]LocalizationService: Localization service is disabled
+[2018.07.28-17.57.16:431][  0]LogConsoleResponse: Display: 
+[2018.07.28-17.57.16:536][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.28-17.57.16:536][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.28-17.57.16:536][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.28-17.57.16:536][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.28-17.57.16:536][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.28-17.57.16:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/' took 0.02s
+[2018.07.28-17.57.16:812][  0]SourceControl: Source control is disabled
+[2018.07.28-17.57.16:813][  0]LightingResults: New page: Lighting Build
+[2018.07.28-17.57.16:815][  0]MapCheck: New page: Map Check
+[2018.07.28-17.57.16:815][  0]LightingResults: New page: Lighting Build
+[2018.07.28-17.57.16:855][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d50a250, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/NewStreak/3rdPartyLibrariesImports/3rdPersonTemplate/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.28-17.57.16:860][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80d50a250, Size=72
+[2018.07.28-17.57.16:860][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d47fa10, Size=72, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.28-17.57.16:865][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d42bc40, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/NewStreak/3rdPartyLibrariesImports/3rdPersonTemplate/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.28-17.57.16:874][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d42b010, Size=72, Default__FirstPerson_AnimBP_C Function /Game/NewStreak/3rdPartyLibrariesImports/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.28-17.57.16:880][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80d42b010, Size=72
+[2018.07.28-17.57.16:880][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f809d5ed40, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_1:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.28-17.57.16:885][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f809cec540, Size=72, Default__FirstPerson_AnimBP_C Function /Game/NewStreak/3rdPartyLibrariesImports/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.28-17.57.16:893][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f809cc6100, Size=256, Default__FirstPersonProjectile_C Function /Game/NewStreak/3rdPartyLibrariesImports/FirstPerson/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.07.28-17.57.16:895][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f809cc6100, Size=256
+[2018.07.28-17.57.16:895][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f809cc6100, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_7:ExecuteUbergraph_FirstPersonProjectile
+[2018.07.28-17.57.16:897][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f809cc4e00, Size=256, Default__FirstPersonProjectile_C Function /Game/NewStreak/3rdPartyLibrariesImports/FirstPerson/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.07.28-17.57.16:901][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f809c6b400, Size=672, Default__BP_FPSBaseCharacter_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.16:902][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f809cb9c20, Size=112, Default__BP_FiringWeaponBase_C Function /Game/NewStreak/Core/Weapons/BP_FiringWeaponBase.BP_FiringWeaponBase_C:ExecuteUbergraph_BP_FiringWeaponBase
+[2018.07.28-17.57.17:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f809d31e88, Size=24, Default__BP_HitscanTracer_C Function /Game/NewStreak/Core/Weapons/BP_HitscanTracer.BP_HitscanTracer_C:ExecuteUbergraph_BP_HitscanTracer
+[2018.07.28-17.57.17:017][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f809d31db0, Size=24, Default__BP_HitscanTracerThirdPerson_C Function /Game/NewStreak/Core/Weapons/BP_HitscanTracerThirdPerson.BP_HitscanTracerThirdPerson_C:ExecuteUbergraph_BP_HitscanTracerThirdPerson
+[2018.07.28-17.57.17:045][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f807b4c7b8, Size=4, Default__WBP_Hitmarker_C Function /Game/NewStreak/Core/CoreUIandEffects/WBP_Hitmarker.WBP_Hitmarker_C:ExecuteUbergraph_WBP_Hitmarker
+[2018.07.28-17.57.17:049][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80dd4ada0, Size=224, Default__BP_HitscanWeapon_C Function /Game/NewStreak/Core/Weapons/BP_HitscanWeapon.BP_HitscanWeapon_C:ExecuteUbergraph_BP_HitscanWeapon
+[2018.07.28-17.57.17:049][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8279e0090, Size=112, Default__BP_HitscanWeapon_C Function /Game/NewStreak/Core/Weapons/BP_FiringWeaponBase.BP_FiringWeaponBase_C:ExecuteUbergraph_BP_FiringWeaponBase
+[2018.07.28-17.57.17:060][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d9b9d80, Size=352, Default__BP_Enforcer_C Function /Game/NewStreak/Blueprints/Characters/BP_Enforcer.BP_Enforcer_C:ExecuteUbergraph_BP_Enforcer
+[2018.07.28-17.57.17:060][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80dd60d00, Size=672, Default__BP_Enforcer_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:066][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d9c9b40, Size=416, Default__WBP_CharacterSelection_C Function /Game/NewStreak/Blueprints/Widgets/WBP_CharacterSelection.WBP_CharacterSelection_C:ExecuteUbergraph_WBP_CharacterSelection
+[2018.07.28-17.57.17:074][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d974280, Size=352, Default__BP_Gunslinger_C Function /Game/NewStreak/Blueprints/Characters/BP_Gunslinger.BP_Gunslinger_C:ExecuteUbergraph_BP_Gunslinger
+[2018.07.28-17.57.17:074][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d992200, Size=672, Default__BP_Gunslinger_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:098][  0]LogLinker: Warning: Can't find file '/Game/NewStreak/Core/UI/BP_Fuel'
+[2018.07.28-17.57.17:098][  0]LogLinker: Warning: Can't find file for asset '/Game/NewStreak/Core/UI/BP_Fuel' while loading ../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/NewStreak/Blueprints/Characters/BP_Vanguard.uasset.
+[2018.07.28-17.57.17:098][  0]LoadErrors: Error: /Game/NewStreak/Blueprints/Characters/BP_Vanguard : Can't find file for asset. /Game/NewStreak/Core/UI/BP_Fuel
+[2018.07.28-17.57.17:098][  0]LogLinker: Warning: Can't find file '/Game/NewStreak/Core/UI/BP_Fuel'
+[2018.07.28-17.57.17:099][  0]LogLinker: Warning: Can't find file for asset '/Game/NewStreak/Core/UI/BP_Fuel' while loading ../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/NewStreak/Blueprints/Characters/BP_Vanguard.uasset.
+[2018.07.28-17.57.17:099][  0]LoadErrors: Error: /Game/NewStreak/Blueprints/Characters/BP_Vanguard : Can't find file for asset. /Game/NewStreak/Core/UI/BP_Fuel
+[2018.07.28-17.57.17:099][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d8c2e00, Size=736, Default__BP_Vanguard_C Function /Game/NewStreak/Blueprints/Characters/BP_Vanguard.BP_Vanguard_C:ExecuteUbergraph_BP_Vanguard
+[2018.07.28-17.57.17:099][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d8c2b00, Size=672, Default__BP_Vanguard_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:100][  0]LogLinker: Warning: Can't find file '/Game/NewStreak/Core/UI/BP_Fuel'
+[2018.07.28-17.57.17:100][  0]LogLinker: Warning: Can't find file for asset '/Game/NewStreak/Core/UI/BP_Fuel' while loading ../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/NewStreak/Core/CoreUIandEffects/BP_DashPips.uasset.
+[2018.07.28-17.57.17:100][  0]LoadErrors: Error: /Game/NewStreak/Core/CoreUIandEffects/BP_DashPips : Can't find file for asset. /Game/NewStreak/Core/UI/BP_Fuel
+[2018.07.28-17.57.17:109][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d960e00, Size=608, Default__BP_Wraith_C Function /Game/NewStreak/Blueprints/Characters/BP_Wraith.BP_Wraith_C:ExecuteUbergraph_BP_Wraith
+[2018.07.28-17.57.17:109][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d8c1900, Size=672, Default__BP_Wraith_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d960900, Size=608, Default__BP_Wraith_C Function /Game/NewStreak/Blueprints/Characters/BP_Wraith.BP_Wraith_C:ExecuteUbergraph_BP_Wraith
+[2018.07.28-17.57.17:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d8c0a00, Size=672, Default__BP_Wraith_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d8c0700, Size=736, Default__BP_Vanguard_C Function /Game/NewStreak/Blueprints/Characters/BP_Vanguard.BP_Vanguard_C:ExecuteUbergraph_BP_Vanguard
+[2018.07.28-17.57.17:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d8c0400, Size=672, Default__BP_Vanguard_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e317e80, Size=352, Default__BP_Gunslinger_C Function /Game/NewStreak/Blueprints/Characters/BP_Gunslinger.BP_Gunslinger_C:ExecuteUbergraph_BP_Gunslinger
+[2018.07.28-17.57.17:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d8c0100, Size=672, Default__BP_Gunslinger_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:117][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e317d00, Size=352, Default__BP_Enforcer_C Function /Game/NewStreak/Blueprints/Characters/BP_Enforcer.BP_Enforcer_C:ExecuteUbergraph_BP_Enforcer
+[2018.07.28-17.57.17:117][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e31bd00, Size=672, Default__BP_Enforcer_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:127][  0]LogLinker: Warning: Can't find file '/Game/NewStreak/Core/UI/BP_Fuel'
+[2018.07.28-17.57.17:127][  0]LogLinker: Warning: Can't find file for asset '/Game/NewStreak/Core/UI/BP_Fuel' while loading ../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/NewStreak/Core/CoreUIandEffects/BP_DashPips.uasset.
+[2018.07.28-17.57.17:127][  0]LoadErrors: Error: /Game/NewStreak/Core/CoreUIandEffects/BP_DashPips : Can't find file for asset. /Game/NewStreak/Core/UI/BP_Fuel
+[2018.07.28-17.57.17:127][  0]LogLinker: Warning: Can't find file '/Game/NewStreak/Core/UI/BP_Fuel'
+[2018.07.28-17.57.17:127][  0]LogLinker: Warning: Can't find file for asset '/Game/NewStreak/Core/UI/BP_Fuel' while loading ../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/NewStreak/Core/CoreUIandEffects/BP_DashPips.uasset.
+[2018.07.28-17.57.17:127][  0]LoadErrors: Error: /Game/NewStreak/Core/CoreUIandEffects/BP_DashPips : Can't find file for asset. /Game/NewStreak/Core/UI/BP_Fuel
+[2018.07.28-17.57.17:128][  0]LogLinker: Warning: Can't find file '/Game/NewStreak/Core/UI/BP_Fuel'
+[2018.07.28-17.57.17:128][  0]LoadErrors: Failed to load /Game/NewStreak/Core/UI/BP_Fuel.BP_Fuel_C Referenced by K2Node_CreateWidget_0
+[2018.07.28-17.57.17:128][  0]LogLinker: Warning: Can't find file for asset '/Game/NewStreak/Core/UI/BP_Fuel' while loading ../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/NewStreak/Core/CoreUIandEffects/BP_DashPips.uasset.
+[2018.07.28-17.57.17:128][  0]LoadErrors: Failed to load /Game/NewStreak/Core/UI/BP_Fuel.BP_Fuel_C Referenced by K2Node_CreateWidget_0
+[2018.07.28-17.57.17:128][  0]LoadErrors: Error: /Game/NewStreak/Core/CoreUIandEffects/BP_DashPips : Can't find file for asset. /Game/NewStreak/Core/UI/BP_Fuel
+[2018.07.28-17.57.17:128][  0]LogLinker: Warning: Can't find file '/Game/NewStreak/Core/UI/BP_Fuel'
+[2018.07.28-17.57.17:128][  0]LoadErrors: Failed to load /Game/NewStreak/Core/UI/BP_Fuel.BP_Fuel_C Referenced by K2Node_CreateWidget_0
+[2018.07.28-17.57.17:128][  0]LogLinker: Warning: Can't find file for asset '/Game/NewStreak/Core/UI/BP_Fuel' while loading ../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/NewStreak/Core/CoreUIandEffects/BP_DashPips.uasset.
+[2018.07.28-17.57.17:128][  0]LoadErrors: Failed to load /Game/NewStreak/Core/UI/BP_Fuel.BP_Fuel_C Referenced by K2Node_CreateWidget_0
+[2018.07.28-17.57.17:128][  0]LoadErrors: Error: /Game/NewStreak/Core/CoreUIandEffects/BP_DashPips : Can't find file for asset. /Game/NewStreak/Core/UI/BP_Fuel
+[2018.07.28-17.57.17:149][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e2789c0, Size=224, Default__BP_HitscanWeapon_C Function /Game/NewStreak/Core/Weapons/BP_HitscanWeapon.BP_HitscanWeapon_C:ExecuteUbergraph_BP_HitscanWeapon
+[2018.07.28-17.57.17:149][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d96bc80, Size=112, Default__BP_HitscanWeapon_C Function /Game/NewStreak/Core/Weapons/BP_FiringWeaponBase.BP_FiringWeaponBase_C:ExecuteUbergraph_BP_FiringWeaponBase
+[2018.07.28-17.57.17:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f809cb9c20, Size=112
+[2018.07.28-17.57.17:188][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e946390, Size=112, Default__BP_FiringWeaponBase_C Function /Engine/Transient.REINST_BP_FiringWeaponBase_C_10:ExecuteUbergraph_BP_FiringWeaponBase
+[2018.07.28-17.57.17:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f809d31e88, Size=24
+[2018.07.28-17.57.17:188][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e867b80, Size=24, Default__BP_HitscanTracer_C Function /Engine/Transient.REINST_BP_HitscanTracer_C_11:ExecuteUbergraph_BP_HitscanTracer
+[2018.07.28-17.57.17:189][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f809d31db0, Size=24
+[2018.07.28-17.57.17:189][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e867b50, Size=24, Default__BP_HitscanTracerThirdPerson_C Function /Engine/Transient.REINST_BP_HitscanTracerThirdPerson_C_12:ExecuteUbergraph_BP_HitscanTracerThirdPerson
+[2018.07.28-17.57.17:189][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e2789c0, Size=224
+[2018.07.28-17.57.17:189][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80d96bc80, Size=112
+[2018.07.28-17.57.17:189][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e8417c0, Size=224, Default__BP_HitscanWeapon_C Function /Engine/Transient.REINST_BP_HitscanWeapon_C_13:ExecuteUbergraph_BP_HitscanWeapon
+[2018.07.28-17.57.17:189][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e946470, Size=112, Default__BP_HitscanWeapon_C Function /Engine/Transient.REINST_BP_FiringWeaponBase_C_10:ExecuteUbergraph_BP_FiringWeaponBase
+[2018.07.28-17.57.17:190][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f809c6b400, Size=672
+[2018.07.28-17.57.17:190][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e82d600, Size=672, Default__BP_FPSBaseCharacter_C Function /Engine/Transient.REINST_BP_FPSBaseCharacter_C_14:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80d9c9b40, Size=416
+[2018.07.28-17.57.17:191][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e82a5c0, Size=416, Default__WBP_CharacterSelection_C Function /Engine/Transient.REINST_WBP_CharacterSelection_C_4:ExecuteUbergraph_WBP_CharacterSelection
+[2018.07.28-17.57.17:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f807b4c7b8, Size=4
+[2018.07.28-17.57.17:191][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e8eed68, Size=4, Default__WBP_Hitmarker_C Function /Engine/Transient.REINST_WBP_Hitmarker_C_8:ExecuteUbergraph_WBP_Hitmarker
+[2018.07.28-17.57.17:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e317d00, Size=352
+[2018.07.28-17.57.17:192][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e31bd00, Size=672
+[2018.07.28-17.57.17:192][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e7f6980, Size=352, Default__BP_Enforcer_C Function /Engine/Transient.REINST_BP_Enforcer_C_15:ExecuteUbergraph_BP_Enforcer
+[2018.07.28-17.57.17:192][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e7fe800, Size=672, Default__BP_Enforcer_C Function /Engine/Transient.REINST_BP_FPSBaseCharacter_C_14:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:192][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e317e80, Size=352
+[2018.07.28-17.57.17:192][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80d8c0100, Size=672
+[2018.07.28-17.57.17:192][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e7f5000, Size=352, Default__BP_Gunslinger_C Function /Engine/Transient.REINST_BP_Gunslinger_C_16:ExecuteUbergraph_BP_Gunslinger
+[2018.07.28-17.57.17:192][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e7fca00, Size=672, Default__BP_Gunslinger_C Function /Engine/Transient.REINST_BP_FPSBaseCharacter_C_14:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:193][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80d8c0700, Size=736
+[2018.07.28-17.57.17:193][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80d8c0400, Size=672
+[2018.07.28-17.57.17:193][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e7dbd00, Size=736, Default__BP_Vanguard_C Function /Engine/Transient.REINST_BP_Vanguard_C_17:ExecuteUbergraph_BP_Vanguard
+[2018.07.28-17.57.17:193][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e7dba00, Size=672, Default__BP_Vanguard_C Function /Engine/Transient.REINST_BP_FPSBaseCharacter_C_14:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:193][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80d960900, Size=608
+[2018.07.28-17.57.17:193][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80d8c0a00, Size=672
+[2018.07.28-17.57.17:193][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e5ca700, Size=608, Default__BP_Wraith_C Function /Engine/Transient.REINST_BP_Wraith_C_18:ExecuteUbergraph_BP_Wraith
+[2018.07.28-17.57.17:193][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e7dab00, Size=672, Default__BP_Wraith_C Function /Engine/Transient.REINST_BP_FPSBaseCharacter_C_14:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:247][  0]LogBlueprint: Error: [Compiler BP_Vanguard] Spawn node  Create Widget  must have a class specified.
+[2018.07.28-17.57.17:249][  0]LogBlueprint: Error: [Compiler BP_Vanguard] The function name in node  Get ZLaunch from Jump Duration  is already used
+[2018.07.28-17.57.17:257][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82ea6ae80, Size=112, Default__BP_FiringWeaponBase_C Function /Game/NewStreak/Core/Weapons/BP_FiringWeaponBase.BP_FiringWeaponBase_C:ExecuteUbergraph_BP_FiringWeaponBase
+[2018.07.28-17.57.17:258][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82ea63a48, Size=24, Default__BP_HitscanTracer_C Function /Game/NewStreak/Core/Weapons/BP_HitscanTracer.BP_HitscanTracer_C:ExecuteUbergraph_BP_HitscanTracer
+[2018.07.28-17.57.17:258][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82ea63928, Size=24, Default__BP_HitscanTracerThirdPerson_C Function /Game/NewStreak/Core/Weapons/BP_HitscanTracerThirdPerson.BP_HitscanTracerThirdPerson_C:ExecuteUbergraph_BP_HitscanTracerThirdPerson
+[2018.07.28-17.57.17:261][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82ea8f820, Size=224, Default__BP_HitscanWeapon_C Function /Game/NewStreak/Core/Weapons/BP_HitscanWeapon.BP_HitscanWeapon_C:ExecuteUbergraph_BP_HitscanWeapon
+[2018.07.28-17.57.17:261][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82e9f3c10, Size=112, Default__BP_HitscanWeapon_C Function /Game/NewStreak/Core/Weapons/BP_FiringWeaponBase.BP_FiringWeaponBase_C:ExecuteUbergraph_BP_FiringWeaponBase
+[2018.07.28-17.57.17:266][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e6d0d00, Size=672, Default__BP_FPSBaseCharacter_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:270][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80f17e940, Size=416, Default__WBP_CharacterSelection_C Function /Game/NewStreak/Blueprints/Widgets/WBP_CharacterSelection.WBP_CharacterSelection_C:ExecuteUbergraph_WBP_CharacterSelection
+[2018.07.28-17.57.17:272][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82eb42a90, Size=4, Default__WBP_Hitmarker_C Function /Game/NewStreak/Core/CoreUIandEffects/WBP_Hitmarker.WBP_Hitmarker_C:ExecuteUbergraph_WBP_Hitmarker
+[2018.07.28-17.57.17:274][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80f127a00, Size=352, Default__BP_Enforcer_C Function /Game/NewStreak/Blueprints/Characters/BP_Enforcer.BP_Enforcer_C:ExecuteUbergraph_BP_Enforcer
+[2018.07.28-17.57.17:274][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80f12ae00, Size=672, Default__BP_Enforcer_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:278][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80f125300, Size=352, Default__BP_Gunslinger_C Function /Game/NewStreak/Blueprints/Characters/BP_Gunslinger.BP_Gunslinger_C:ExecuteUbergraph_BP_Gunslinger
+[2018.07.28-17.57.17:278][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80f0b1900, Size=672, Default__BP_Gunslinger_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:281][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80f047400, Size=736, Default__BP_Vanguard_C Function /Game/NewStreak/Blueprints/Characters/BP_Vanguard.BP_Vanguard_C:ExecuteUbergraph_BP_Vanguard
+[2018.07.28-17.57.17:281][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80f047100, Size=672, Default__BP_Vanguard_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:284][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80eff7d80, Size=608, Default__BP_Wraith_C Function /Game/NewStreak/Blueprints/Characters/BP_Wraith.BP_Wraith_C:ExecuteUbergraph_BP_Wraith
+[2018.07.28-17.57.17:284][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80f045600, Size=672, Default__BP_Wraith_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-17.57.17:309][  0]LogBlueprint: Warning: [Compiler BP_Vanguard] [0007.97] Compile of BP_Vanguard failed. 2 Fatal Issue(s) 0 Warning(s) [in 152 ms] (/Game/NewStreak/Blueprints/Characters/BP_Vanguard.BP_Vanguard)
+[2018.07.28-17.57.17:366][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82eb8f1a0, Size=40, Default__BP_JumpPad_C Function /Game/NewStreak/Blueprints/BP_Environments/BP_JumpPad.BP_JumpPad_C:ExecuteUbergraph_BP_JumpPad
+[2018.07.28-17.57.17:367][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82eb8f1a0, Size=40
+[2018.07.28-17.57.17:367][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82eb8f1a0, Size=40, Default__BP_JumpPad_C Function /Engine/Transient.REINST_BP_JumpPad_C_40:ExecuteUbergraph_BP_JumpPad
+[2018.07.28-17.57.17:368][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82eb8e4d0, Size=40, Default__BP_JumpPad_C Function /Game/NewStreak/Blueprints/BP_Environments/BP_JumpPad.BP_JumpPad_C:ExecuteUbergraph_BP_JumpPad
+[2018.07.28-17.57.17:374][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80d9bbd00, Size=352, Default__BP_HealthPickUp_C Function /Game/NewStreak/Blueprints/PickUps/BP_HealthPickUp.BP_HealthPickUp_C:ExecuteUbergraph_BP_HealthPickUp
+[2018.07.28-17.57.17:377][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80d9bbd00, Size=352
+[2018.07.28-17.57.17:377][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e45a500, Size=352, Default__BP_HealthPickUp_C Function /Engine/Transient.REINST_BP_HealthPickUp_C_42:ExecuteUbergraph_BP_HealthPickUp
+[2018.07.28-17.57.17:378][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e387700, Size=352, Default__BP_HealthPickUp_C Function /Game/NewStreak/Blueprints/PickUps/BP_HealthPickUp.BP_HealthPickUp_C:ExecuteUbergraph_BP_HealthPickUp
+[2018.07.28-17.57.17:382][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f811eac220, Size=144, Default__BP_TestRecieveDamage_C Function /Game/NewStreak/Core/Weapons/BP_TestRecieveDamage.BP_TestRecieveDamage_C:ExecuteUbergraph_BP_TestRecieveDamage
+[2018.07.28-17.57.17:385][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f811eac220, Size=144
+[2018.07.28-17.57.17:385][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e4fba60, Size=144, Default__BP_TestRecieveDamage_C Function /Engine/Transient.REINST_BP_TestRecieveDamage_C_44:ExecuteUbergraph_BP_TestRecieveDamage
+[2018.07.28-17.57.17:386][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e4fa8e0, Size=144, Default__BP_TestRecieveDamage_C Function /Game/NewStreak/Core/Weapons/BP_TestRecieveDamage.BP_TestRecieveDamage_C:ExecuteUbergraph_BP_TestRecieveDamage
+[2018.07.28-17.57.17:406][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80efd7df0, Size=24, Default__ThirdPersonExampleMap_C Function /Game/NewStreak/3rdPartyLibrariesImports/3rdPersonTemplate/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.07.28-17.57.17:407][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80efd7df0, Size=24
+[2018.07.28-17.57.17:407][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80efd7df0, Size=24, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_46:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.07.28-17.57.17:408][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80efd40e8, Size=24, Default__ThirdPersonExampleMap_C Function /Game/NewStreak/3rdPartyLibrariesImports/3rdPersonTemplate/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.07.28-17.57.17:519][  0]LogTexture: Display: Building textures: hitmarker (AutoDXT, 420X420)
+[2018.07.28-17.57.17:519][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2018.07.28-17.57.17:635][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.07.28-17.57.17:635][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.07.28-17.57.17:635][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.07.28-17.57.17:635][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.07.28-17.57.17:635][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.07.28-17.57.17:635][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.07.28-17.57.17:639][  0]LogStaticMesh: Building static mesh EnforcerBox...
+[2018.07.28-17.57.17:640][  0]LogStaticMesh: Built static mesh [0.00s] /Game/NewStreak/Assets/EnforcerBox.EnforcerBox
+[2018.07.28-17.57.17:662][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [12.775232ms] /Game/NewStreak/3rdPartyLibrariesImports/3rdPersonTemplate/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.07.28-17.57.17:674][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.767160ms] /Game/NewStreak/3rdPartyLibrariesImports/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.07.28-17.57.17:686][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.515789ms] /Game/NewStreak/3rdPartyLibrariesImports/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.07.28-17.57.17:892][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.07.28-17.57.17:892][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2018.07.28-17.57.17:892][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.07.28-17.57.17:892][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.07.28-17.57.17:892][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.07.28-17.57.17:892][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2018.07.28-17.57.17:892][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave HitmarkerSound...
+[2018.07.28-17.57.17:909][  0]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/NewStreak/SoundEffects/HitmarkerSound.HitmarkerSound.
+[2018.07.28-17.57.17:909][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave BasicGunFireSound...
+[2018.07.28-17.57.17:915][  0]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/NewStreak/SoundEffects/BasicGunFireSound.BasicGunFireSound.
+[2018.07.28-17.57.18:507][  0]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 512X256)
+[2018.07.28-17.57.18:507][  0]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.07.28-17.57.18:507][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2018.07.28-17.57.18:507][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2018.07.28-17.57.18:507][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 32X32)
+[2018.07.28-17.57.18:507][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.28-17.57.18:735][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80d47fa10, Size=72
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f809d5ed40, Size=72
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f809cc6100, Size=256
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e82d600, Size=672
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e946390, Size=112
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e867b80, Size=24
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e867b50, Size=24
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e8eed68, Size=4
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e8417c0, Size=224
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e946470, Size=112
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e7f6980, Size=352
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e7fe800, Size=672
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e82a5c0, Size=416
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e7f5000, Size=352
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e7fca00, Size=672
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e7dbd00, Size=736
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e7dba00, Size=672
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e5ca700, Size=608
+[2018.07.28-17.57.18:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e7dab00, Size=672
+[2018.07.28-17.57.18:756][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82eb8f1a0, Size=40
+[2018.07.28-17.57.18:756][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e45a500, Size=352
+[2018.07.28-17.57.18:756][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e4fba60, Size=144
+[2018.07.28-17.57.18:756][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80efd7df0, Size=24
+[2018.07.28-17.57.18:759][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.28-17.57.18:812][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.353ms to complete.
+[2018.07.28-17.57.18:812][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.999
+[2018.07.28-17.57.18:966][  0]LogCollectionManager: Loaded 0 collections in 0.001416 seconds
+[2018.07.28-17.57.19:018][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Saved/Collections/' took 0.01s
+[2018.07.28-17.57.19:018][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/Developers/ConnorMcGeary/Collections/' took 0.01s
+[2018.07.28-17.57.19:018][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/Collections/' took 0.01s
+[2018.07.28-17.57.19:018][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.28-17.57.19:025][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2477 classes and 567 folders.
+[2018.07.28-17.57.19:030][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.28-17.57.19:062][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.28-17.57.19:066][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.28-17.57.19:075][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.28-17.57.19:076][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.28-17.57.19:080][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.28-17.57.19:151][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2018.07.28-17.57.19:364][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.28-17.57.19:364][  0]LogLoad: (Engine Initialization) Total time: 10.03 seconds
+[2018.07.28-17.57.19:364][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.28-17.57.19:374][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.28-17.57.19:406][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.28-17.57.19:422][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-17.57.19:465][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.28-17.57.19:476][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/' took 0.09s
+[2018.07.28-17.57.19:604][  2]LogAssetRegistry: Asset discovery search completed in 6.4971 seconds
+[2018.07.28-17.57.19:608][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.28-17.57.19:608][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2018.07.28-17.57.31:534][417]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-17.57.33:536][626]LogSlate: Window 'Message Log' being destroyed
+[2018.07.28-17.57.33:538][626]LogSlate: Window 'Message Log' being destroyed
+[2018.07.28-17.57.35:394][811]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.07.28-17.57.35:634][811]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82bb33db8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.28-17.57.35:634][811]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82bb33db0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.28-17.57.36:007][811]LogSlate: Took 0.003474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.28-17.57.36:286][812]LogSlate: Took 0.003417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.28-17.58.18:911][981]LogSlate: Window 'BP_Vanguard*' being destroyed
+[2018.07.28-17.58.18:912][981]LogSlate: Window 'BP_Vanguard*' being destroyed
+[2018.07.28-17.58.26:774][800]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f85b904088, Size=24, Default__ClashHD_C Function /Game/NewStreak/Maps/ClashHD.ClashHD_C:ExecuteUbergraph_ClashHD
+[2018.07.28-17.58.26:775][800]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f85b904088, Size=24
+[2018.07.28-17.58.26:775][800]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f85b904088, Size=24, Default__ClashHD_C Function /Engine/Transient.REINST_ClashHD_C_58:ExecuteUbergraph_ClashHD
+[2018.07.28-17.58.26:776][800]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f85b905780, Size=24, Default__ClashHD_C Function /Game/NewStreak/Maps/ClashHD.ClashHD_C:ExecuteUbergraph_ClashHD
+[2018.07.28-17.58.27:140][800]LogAIModule: Creating AISystem for world ClashHD
+[2018.07.28-17.58.27:214][800]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f85b904088, Size=24
+[2018.07.28-17.58.30:314][800]LogSlate: Window 'Save Content' being destroyed
+[2018.07.28-17.58.30:316][800]Cmd: MAP LOAD FILE="../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/NewStreak/Maps/ClashHD.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.28-17.58.30:317][800]LightingResults: New page: Lighting Build
+[2018.07.28-17.58.30:318][800]LoadErrors: New page: Loading map: ClashHD.umap
+[2018.07.28-17.58.30:325][800]MapCheck: New page: Map Check
+[2018.07.28-17.58.30:325][800]LightingResults: New page: Lighting Build
+[2018.07.28-17.58.30:344][800]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80efd40e8, Size=24
+[2018.07.28-17.58.30:384][800]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.28-17.58.30:423][800]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.28-17.58.30:524][800]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 100.838ms to complete.
+[2018.07.28-17.58.30:526][800]LogFileHelpers: Loading map 'ClashHD' took 0.210
+[2018.07.28-17.58.32:069][979]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.28-17.58.32:088][979]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel' has LevelScriptBlueprint '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD' with GeneratedClass '/Game/NewStreak/Maps/ClashHD.ClashHD_C' with ClassGeneratedBy '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD'
+[2018.07.28-17.58.32:088][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-17.58.37:098][979]LogSlate: Window 'Message' being destroyed
+[2018.07.28-17.58.37:100][979]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.28-17.58.37:100][979]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.28-17.58.37:101][979]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.28-17.58.37:101][979]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.28-17.58.37:101][979]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.07.28-17.58.37:101][979]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.07.28-17.58.37:112][979]PIE: New page: PIE session: ClashHD (Jul 28, 2018, 7:58:37 AM)
+[2018.07.28-17.58.37:116][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f833f9c160, Size=96, Default__BPW_HostMenu_C Function /Game/NewStreak/Blueprints/Widgets/BPW_HostMenu.BPW_HostMenu_C:ExecuteUbergraph_BPW_HostMenu
+[2018.07.28-17.58.37:119][979]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f833f9c160, Size=96
+[2018.07.28-17.58.37:119][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f833f9c160, Size=96, Default__BPW_HostMenu_C Function /Engine/Transient.REINST_BPW_HostMenu_C_9:ExecuteUbergraph_BPW_HostMenu
+[2018.07.28-17.58.37:121][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f833f9d660, Size=96, Default__BPW_HostMenu_C Function /Game/NewStreak/Blueprints/Widgets/BPW_HostMenu.BPW_HostMenu_C:ExecuteUbergraph_BPW_HostMenu
+[2018.07.28-17.58.37:126][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f85789b5f0, Size=112, Default__BPM_ServerButtonMenu_C Function /Game/NewStreak/Blueprints/Widgets/BPM_ServerButtonMenu.BPM_ServerButtonMenu_C:ExecuteUbergraph_BPM_ServerButtonMenu
+[2018.07.28-17.58.37:128][979]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f85789b5f0, Size=112
+[2018.07.28-17.58.37:128][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f85789b5f0, Size=112, Default__BPM_ServerButtonMenu_C Function /Engine/Transient.REINST_BPM_ServerButtonMenu_C_10:ExecuteUbergraph_BPM_ServerButtonMenu
+[2018.07.28-17.58.37:129][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f85bbd48e0, Size=112, Default__BPM_ServerButtonMenu_C Function /Game/NewStreak/Blueprints/Widgets/BPM_ServerButtonMenu.BPM_ServerButtonMenu_C:ExecuteUbergraph_BPM_ServerButtonMenu
+[2018.07.28-17.58.37:131][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80a35e980, Size=384, Default__BPW_JoinMenu_C Function /Game/NewStreak/Blueprints/Widgets/BPW_JoinMenu.BPW_JoinMenu_C:ExecuteUbergraph_BPW_JoinMenu
+[2018.07.28-17.58.37:133][979]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80a35e980, Size=384
+[2018.07.28-17.58.37:133][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f88956a680, Size=384, Default__BPW_JoinMenu_C Function /Engine/Transient.REINST_BPW_JoinMenu_C_11:ExecuteUbergraph_BPW_JoinMenu
+[2018.07.28-17.58.37:136][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f83c26ba00, Size=384, Default__BPW_JoinMenu_C Function /Game/NewStreak/Blueprints/Widgets/BPW_JoinMenu.BPW_JoinMenu_C:ExecuteUbergraph_BPW_JoinMenu
+[2018.07.28-17.58.37:138][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82bb0c658, Size=40, Default__BPW_MainMenu_C Function /Game/NewStreak/Blueprints/Widgets/BPW_MainMenu.BPW_MainMenu_C:ExecuteUbergraph_BPW_MainMenu
+[2018.07.28-17.58.37:140][979]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82bb0c658, Size=40
+[2018.07.28-17.58.37:140][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82bb0c658, Size=40, Default__BPW_MainMenu_C Function /Engine/Transient.REINST_BPW_MainMenu_C_12:ExecuteUbergraph_BPW_MainMenu
+[2018.07.28-17.58.37:141][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f82bb0d210, Size=40, Default__BPW_MainMenu_C Function /Game/NewStreak/Blueprints/Widgets/BPW_MainMenu.BPW_MainMenu_C:ExecuteUbergraph_BPW_MainMenu
+[2018.07.28-17.58.37:142][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f857855390, Size=24, Default__BP_GameInstance_C Function /Game/NewStreak/Blueprints/BP_GameInstance.BP_GameInstance_C:ExecuteUbergraph_BP_GameInstance
+[2018.07.28-17.58.37:143][979]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f857855390, Size=24
+[2018.07.28-17.58.37:143][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f857855390, Size=24, Default__BP_GameInstance_C Function /Engine/Transient.REINST_BP_GameInstance_C_64:ExecuteUbergraph_BP_GameInstance
+[2018.07.28-17.58.37:144][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8578551f8, Size=24, Default__BP_GameInstance_C Function /Game/NewStreak/Blueprints/BP_GameInstance.BP_GameInstance_C:ExecuteUbergraph_BP_GameInstance
+[2018.07.28-17.58.37:160][979]LogPlayLevel: Creating play world package: /Game/NewStreak/Maps/UEDPIE_0_ClashHD
+[2018.07.28-17.58.37:177][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017436s)
+[2018.07.28-17.58.37:178][979]LogAIModule: Creating AISystem for world ClashHD
+[2018.07.28-17.58.37:178][979]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2018.07.28-17.58.37:178][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewStreak/Maps/ClashHD.ClashHD to /Game/NewStreak/Maps/UEDPIE_0_ClashHD.ClashHD (0.018171s)
+[2018.07.28-17.58.37:194][979]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f857855390, Size=24
+[2018.07.28-17.58.37:194][979]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82bb0c658, Size=40
+[2018.07.28-17.58.37:194][979]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f88956a680, Size=384
+[2018.07.28-17.58.37:194][979]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f85789b5f0, Size=112
+[2018.07.28-17.58.37:194][979]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f833f9c160, Size=96
+[2018.07.28-17.58.37:217][979]LogInit: XAudio2 using 'Main Output (Komplete Audio 6 WDM Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-17.58.37:221][979]LogInit: FAudioDevice initialized.
+[2018.07.28-17.58.37:330][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8286f6e20, Size=32, Default__BP_HUD_C Function /Game/NewStreak/Core/CoreUIandEffects/BP_HUD.BP_HUD_C:ExecuteUbergraph_BP_HUD
+[2018.07.28-17.58.37:331][979]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8286f6e20, Size=32
+[2018.07.28-17.58.37:331][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f8286f6e20, Size=32, Default__BP_HUD_C Function /Engine/Transient.REINST_BP_HUD_C_66:ExecuteUbergraph_BP_HUD
+[2018.07.28-17.58.37:332][979]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f85eacaa60, Size=32, Default__BP_HUD_C Function /Game/NewStreak/Core/CoreUIandEffects/BP_HUD.BP_HUD_C:ExecuteUbergraph_BP_HUD
+[2018.07.28-17.58.37:339][979]LogLoad: Game class is 'BP_FPSGamemode_C'
+[2018.07.28-17.58.37:352][979]LogWorld: Bringing World /Game/NewStreak/Maps/UEDPIE_0_ClashHD.ClashHD up for play (max tick rate 0) at 2018.07.28-12.58.37
+[2018.07.28-17.58.37:356][979]LogWorld: Bringing up level for play took: 0.016589
+[2018.07.28-17.58.37:373][979]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.07.28-17.58.37:384][979]PIE: Play in editor start time for /Game/NewStreak/Maps/UEDPIE_0_ClashHD 5.413
+[2018.07.28-17.58.37:384][979]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel' has LevelScriptBlueprint '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD' with GeneratedClass '/Game/NewStreak/Maps/ClashHD.ClashHD_C' with ClassGeneratedBy '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD'
+[2018.07.28-17.58.45:903][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-17.59.33:193][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8286f6e20, Size=32
+[2018.07.28-18.00.14:810][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-18.00.59:174][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel' has LevelScriptBlueprint '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD' with GeneratedClass '/Game/NewStreak/Maps/ClashHD.ClashHD_C' with ClassGeneratedBy '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD'
+[2018.07.28-18.00.59:188][855]LogSlate: Window 'Lawbreakers Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.28-18.00.59:223][855]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.28-18.00.59:223][855]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.28-18.00.59:224][855]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.28-18.00.59:224][855]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.28-18.00.59:224][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.28-18.00.59:224][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel' has LevelScriptBlueprint '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD' with GeneratedClass '/Game/NewStreak/Maps/ClashHD.ClashHD_C' with ClassGeneratedBy '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD'
+[2018.07.28-18.00.59:273][857]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.07.28-18.00.59:273][857]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.28-18.01.28:849][ 43]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.28-18.03.06:216][786]BlueprintLog: New page: Compile BP_Vanguard
+[2018.07.28-18.03.06:265][786]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80f047400, Size=736
+[2018.07.28-18.03.06:265][786]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80f047100, Size=672
+[2018.07.28-18.03.06:265][786]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e5b0400, Size=736, Default__BP_Vanguard_C Function /Engine/Transient.REINST_BP_Vanguard_C_73:ExecuteUbergraph_BP_Vanguard
+[2018.07.28-18.03.06:265][786]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f80e5b0700, Size=672, Default__BP_Vanguard_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-18.03.06:272][786]LogBlueprint: Error: [Compiler BP_Vanguard] The function name in node  Get ZLaunch from Jump Duration  is already used
+[2018.07.28-18.03.06:275][786]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f83d918400, Size=736, Default__BP_Vanguard_C Function /Game/NewStreak/Blueprints/Characters/BP_Vanguard.BP_Vanguard_C:ExecuteUbergraph_BP_Vanguard
+[2018.07.28-18.03.06:275][786]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f83d91a800, Size=672, Default__BP_Vanguard_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-18.03.06:512][786]LogBlueprint: Warning: [Compiler BP_Vanguard] [0357.17] Compile of BP_Vanguard failed. 1 Fatal Issue(s) 0 Warning(s) [in 295 ms] (/Game/NewStreak/Blueprints/Characters/BP_Vanguard.BP_Vanguard)
+[2018.07.28-18.03.13:009][415]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.28-18.06.12:787][646]LogSlate: Window 'BP_Vanguard*' being destroyed
+[2018.07.28-18.06.12:790][646]LogSlate: Window 'BP_Vanguard*' being destroyed
+[2018.07.28-18.07.26:744][512]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f83f7a7cb8, Size=4, Default__SKEL_BP_Vanguard_C Function /Game/NewStreak/Blueprints/Characters/BP_Vanguard.SKEL_BP_Vanguard_C:ExecuteUbergraph_BP_Vanguard
+[2018.07.28-18.07.29:698][728]BlueprintLog: New page: Compile BP_Vanguard
+[2018.07.28-18.07.29:719][728]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f83f7a7cb8, Size=4
+[2018.07.28-18.07.29:719][728]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f830979498, Size=4, Default__SKEL_BP_Vanguard_C Function /Engine/Transient.REINST_SKEL_BP_Vanguard_C_77:ExecuteUbergraph_BP_Vanguard
+[2018.07.28-18.07.29:741][728]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f83d918400, Size=736
+[2018.07.28-18.07.29:741][728]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f83d91a800, Size=672
+[2018.07.28-18.07.29:741][728]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f89bfc1900, Size=736, BP_Vanguard_C_5 Function /Engine/Transient.REINST_BP_Vanguard_C_80:ExecuteUbergraph_BP_Vanguard
+[2018.07.28-18.07.29:741][728]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f89bfc1000, Size=672, BP_Vanguard_C_5 Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-18.07.29:751][728]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f833c9b400, Size=736, Default__BP_Vanguard_C Function /Game/NewStreak/Blueprints/Characters/BP_Vanguard.BP_Vanguard_C:ExecuteUbergraph_BP_Vanguard
+[2018.07.28-18.07.29:751][728]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f833c9b100, Size=672, Default__BP_Vanguard_C Function /Game/NewStreak/Core/Characters/BP_FPSBaseCharacter.BP_FPSBaseCharacter_C:ExecuteUbergraph_BP_FPSBaseCharacter
+[2018.07.28-18.07.29:985][728]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f830979498, Size=4
+[2018.07.28-18.07.29:985][728]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e5b0400, Size=736
+[2018.07.28-18.07.29:985][728]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e5b0700, Size=672
+[2018.07.28-18.07.30:857][769]LogSavePackage: Save=73.51ms
+[2018.07.28-18.07.30:857][769]LogSavePackage: Moving '../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Saved/BP_VanguardF227627041E8C5FCDFD3A28B183AA4C5.tmp' to '../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/NewStreak/Blueprints/Characters/BP_Vanguard.uasset'
+[2018.07.28-18.07.30:859][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/NewStreak/Blueprints/Characters/BP_Vanguard.uasset
+[2018.07.28-18.07.32:771][922]LogSlate: Window 'BP_Vanguard' being destroyed
+[2018.07.28-18.07.32:774][922]LogSlate: Window 'BP_Vanguard' being destroyed
+[2018.07.28-18.07.33:963][ 57]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.28-18.07.33:981][ 57]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel' has LevelScriptBlueprint '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD' with GeneratedClass '/Game/NewStreak/Maps/ClashHD.ClashHD_C' with ClassGeneratedBy '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD'
+[2018.07.28-18.07.33:981][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-18.07.33:981][ 57]PIE: New page: PIE session: ClashHD (Jul 28, 2018, 8:07:33 AM)
+[2018.07.28-18.07.33:981][ 57]LogPlayLevel: Creating play world package: /Game/NewStreak/Maps/UEDPIE_0_ClashHD
+[2018.07.28-18.07.33:998][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016963s)
+[2018.07.28-18.07.33:999][ 57]LogAIModule: Creating AISystem for world ClashHD
+[2018.07.28-18.07.33:999][ 57]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2018.07.28-18.07.33:999][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewStreak/Maps/ClashHD.ClashHD to /Game/NewStreak/Maps/UEDPIE_0_ClashHD.ClashHD (0.017801s)
+[2018.07.28-18.07.34:039][ 57]LogInit: XAudio2 using 'Main Output (Komplete Audio 6 WDM Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-18.07.34:042][ 57]LogInit: FAudioDevice initialized.
+[2018.07.28-18.07.34:120][ 57]LogLoad: Game class is 'BP_FPSGamemode_C'
+[2018.07.28-18.07.34:133][ 57]LogWorld: Bringing World /Game/NewStreak/Maps/UEDPIE_0_ClashHD.ClashHD up for play (max tick rate 0) at 2018.07.28-13.07.34
+[2018.07.28-18.07.34:135][ 57]LogWorld: Bringing up level for play took: 0.014345
+[2018.07.28-18.07.34:156][ 57]PIE: Play in editor start time for /Game/NewStreak/Maps/UEDPIE_0_ClashHD 0.184
+[2018.07.28-18.07.34:156][ 57]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel' has LevelScriptBlueprint '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD' with GeneratedClass '/Game/NewStreak/Maps/ClashHD.ClashHD_C' with ClassGeneratedBy '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD'
+[2018.07.28-18.07.42:993][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-18.07.45:078][318]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jump lasted 11.123236 seconds.
+[2018.07.28-18.07.45:078][318]LogBlueprintUserMessages: [BP_Vanguard_C_0] Launched at 826.875 cm/s or whatever.
+[2018.07.28-18.07.45:495][368]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jump lasted 11.539918 seconds.
+[2018.07.28-18.07.45:495][368]LogBlueprintUserMessages: [BP_Vanguard_C_0] Launched at 826.875 cm/s or whatever.
+[2018.07.28-18.07.45:961][424]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.07.47:820][647]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.07.48:220][695]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.07.48:595][740]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.07.48:870][773]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.07.49:095][800]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.140023 seconds after last jump.
+[2018.07.28-18.07.49:104][801]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.148356 seconds after last jump.
+[2018.07.28-18.07.49:112][802]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.156691 seconds after last jump.
+[2018.07.28-18.07.49:120][803]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.165024 seconds after last jump.
+[2018.07.28-18.07.49:128][804]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.173357 seconds after last jump.
+[2018.07.28-18.07.49:137][805]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.18169 seconds after last jump.
+[2018.07.28-18.07.49:145][806]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.190023 seconds after last jump.
+[2018.07.28-18.07.49:154][807]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.198357 seconds after last jump.
+[2018.07.28-18.07.49:162][808]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.206691 seconds after last jump.
+[2018.07.28-18.07.49:170][809]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.215024 seconds after last jump.
+[2018.07.28-18.07.49:178][810]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.223357 seconds after last jump.
+[2018.07.28-18.07.49:187][811]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.231691 seconds after last jump.
+[2018.07.28-18.07.49:195][812]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.240025 seconds after last jump.
+[2018.07.28-18.07.49:203][813]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.248359 seconds after last jump.
+[2018.07.28-18.07.49:212][814]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.256692 seconds after last jump.
+[2018.07.28-18.07.49:220][815]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.265025 seconds after last jump.
+[2018.07.28-18.07.49:229][816]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.273358 seconds after last jump.
+[2018.07.28-18.07.49:237][817]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.281693 seconds after last jump.
+[2018.07.28-18.07.49:245][818]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.290027 seconds after last jump.
+[2018.07.28-18.07.49:253][819]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.29836 seconds after last jump.
+[2018.07.28-18.07.49:262][820]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.306693 seconds after last jump.
+[2018.07.28-18.07.49:270][821]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.31513 seconds after last jump.
+[2018.07.28-18.07.49:279][822]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.323464 seconds after last jump.
+[2018.07.28-18.07.49:287][823]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.331798 seconds after last jump.
+[2018.07.28-18.07.49:296][824]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.340132 seconds after last jump.
+[2018.07.28-18.07.49:303][825]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.348465 seconds after last jump.
+[2018.07.28-18.07.49:312][826]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.356798 seconds after last jump.
+[2018.07.28-18.07.49:320][827]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.365131 seconds after last jump.
+[2018.07.28-18.07.49:329][828]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.373465 seconds after last jump.
+[2018.07.28-18.07.49:337][829]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.381799 seconds after last jump.
+[2018.07.28-18.07.49:345][830]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.390133 seconds after last jump.
+[2018.07.28-18.07.49:354][831]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.398467 seconds after last jump.
+[2018.07.28-18.07.49:362][832]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.406801 seconds after last jump.
+[2018.07.28-18.07.49:370][833]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.415134 seconds after last jump.
+[2018.07.28-18.07.49:378][834]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.423469 seconds after last jump.
+[2018.07.28-18.07.49:396][836]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.440503 seconds after last jump.
+[2018.07.28-18.07.49:412][838]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.45717 seconds after last jump.
+[2018.07.28-18.07.49:429][840]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.473837 seconds after last jump.
+[2018.07.28-18.07.49:445][842]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.490503 seconds after last jump.
+[2018.07.28-18.07.49:462][844]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.507171 seconds after last jump.
+[2018.07.28-18.07.49:479][846]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.523838 seconds after last jump.
+[2018.07.28-18.07.49:495][848]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.540504 seconds after last jump.
+[2018.07.28-18.07.49:512][850]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.557172 seconds after last jump.
+[2018.07.28-18.07.49:529][852]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.57384 seconds after last jump.
+[2018.07.28-18.07.49:546][854]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.590507 seconds after last jump.
+[2018.07.28-18.07.49:562][856]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.607173 seconds after last jump.
+[2018.07.28-18.07.49:579][858]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.62384 seconds after last jump.
+[2018.07.28-18.07.49:596][860]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.640509 seconds after last jump.
+[2018.07.28-18.07.49:612][862]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.657175 seconds after last jump.
+[2018.07.28-18.07.49:629][864]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.673842 seconds after last jump.
+[2018.07.28-18.07.49:646][866]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.690959 seconds after last jump.
+[2018.07.28-18.07.49:664][868]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.707952 seconds after last jump.
+[2018.07.28-18.07.49:680][870]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.724908 seconds after last jump.
+[2018.07.28-18.07.49:697][872]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.741867 seconds after last jump.
+[2018.07.28-18.07.49:714][874]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.75912 seconds after last jump.
+[2018.07.28-18.07.49:732][876]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.775992 seconds after last jump.
+[2018.07.28-18.07.49:748][878]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.792896 seconds after last jump.
+[2018.07.28-18.07.49:765][880]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.809721 seconds after last jump.
+[2018.07.28-18.07.49:781][882]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.826389 seconds after last jump.
+[2018.07.28-18.07.49:798][884]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.843056 seconds after last jump.
+[2018.07.28-18.07.49:815][886]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.859723 seconds after last jump.
+[2018.07.28-18.07.49:832][888]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.87639 seconds after last jump.
+[2018.07.28-18.07.49:848][890]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.893056 seconds after last jump.
+[2018.07.28-18.07.49:865][892]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.909723 seconds after last jump.
+[2018.07.28-18.07.49:882][894]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.926503 seconds after last jump.
+[2018.07.28-18.07.49:898][896]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.07.49:898][896]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 15.943171 seconds after last jump.
+[2018.07.28-18.07.50:416][958]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.07.50:458][963]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 16.502769 seconds after last jump.
+[2018.07.28-18.07.50:493][967]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 16.538021 seconds after last jump.
+[2018.07.28-18.07.51:838][128]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.07.52:263][179]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 18.307562 seconds after last jump.
+[2018.07.28-18.07.52:854][250]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.07.52:988][266]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 19.032551 seconds after last jump.
+[2018.07.28-18.07.53:113][281]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 19.157549 seconds after last jump.
+[2018.07.28-18.07.53:238][296]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 19.282547 seconds after last jump.
+[2018.07.28-18.07.53:321][306]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 19.365879 seconds after last jump.
+[2018.07.28-18.07.53:463][323]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 19.507544 seconds after last jump.
+[2018.07.28-18.07.53:613][341]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 19.657541 seconds after last jump.
+[2018.07.28-18.07.53:771][360]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 19.815872 seconds after last jump.
+[2018.07.28-18.07.53:930][379]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 19.974203 seconds after last jump.
+[2018.07.28-18.07.54:096][399]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 20.140867 seconds after last jump.
+[2018.07.28-18.07.54:479][445]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.07.54:538][452]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 20.582636 seconds after last jump.
+[2018.07.28-18.07.55:596][579]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.07.55:754][598]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 21.799284 seconds after last jump.
+[2018.07.28-18.07.57:005][748]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 23.049278 seconds after last jump.
+[2018.07.28-18.07.57:013][749]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 23.057611 seconds after last jump.
+[2018.07.28-18.07.57:022][750]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 23.065945 seconds after last jump.
+[2018.07.28-18.07.57:030][751]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 23.074278 seconds after last jump.
+[2018.07.28-18.07.57:038][752]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 23.082611 seconds after last jump.
+[2018.07.28-18.07.57:047][753]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 23.090944 seconds after last jump.
+[2018.07.28-18.07.57:055][754]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 23.099277 seconds after last jump.
+[2018.07.28-18.07.57:063][755]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 23.107611 seconds after last jump.
+[2018.07.28-18.07.57:163][767]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 23.207626 seconds after last jump.
+[2018.07.28-18.07.57:338][788]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 23.382624 seconds after last jump.
+[2018.07.28-18.07.57:547][813]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 23.590954 seconds after last jump.
+[2018.07.28-18.08.04:297][623]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 30.341019 seconds after last jump.
+[2018.07.28-18.08.04:497][647]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 30.541016 seconds after last jump.
+[2018.07.28-18.08.15:062][912]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.15:637][981]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.16:063][ 32]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 42.108559 seconds after last jump.
+[2018.07.28-18.08.16:947][138]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.17:689][227]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.18:522][327]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 44.568531 seconds after last jump.
+[2018.07.28-18.08.18:581][334]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 44.626877 seconds after last jump.
+[2018.07.28-18.08.18:639][341]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 44.685223 seconds after last jump.
+[2018.07.28-18.08.18:689][347]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.18:697][348]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 44.743572 seconds after last jump.
+[2018.07.28-18.08.19:372][429]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.19:422][435]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 45.468727 seconds after last jump.
+[2018.07.28-18.08.19:472][441]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 45.518738 seconds after last jump.
+[2018.07.28-18.08.19:531][448]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 45.577084 seconds after last jump.
+[2018.07.28-18.08.19:589][455]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 45.635429 seconds after last jump.
+[2018.07.28-18.08.19:656][463]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 45.70211 seconds after last jump.
+[2018.07.28-18.08.20:231][532]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.20:680][586]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.20:914][614]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.21:047][630]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.21:114][638]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 47.160793 seconds after last jump.
+[2018.07.28-18.08.21:122][639]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 47.169128 seconds after last jump.
+[2018.07.28-18.08.21:131][640]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 47.177464 seconds after last jump.
+[2018.07.28-18.08.21:156][643]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 47.202469 seconds after last jump.
+[2018.07.28-18.08.21:214][650]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 47.260815 seconds after last jump.
+[2018.07.28-18.08.21:273][657]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 47.31916 seconds after last jump.
+[2018.07.28-18.08.21:339][665]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 47.385841 seconds after last jump.
+[2018.07.28-18.08.21:414][674]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 47.460857 seconds after last jump.
+[2018.07.28-18.08.21:497][684]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 47.544209 seconds after last jump.
+[2018.07.28-18.08.22:481][802]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 48.527824 seconds after last jump.
+[2018.07.28-18.08.22:556][811]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 48.603359 seconds after last jump.
+[2018.07.28-18.08.22:631][820]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 48.678375 seconds after last jump.
+[2018.07.28-18.08.22:706][829]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 48.753395 seconds after last jump.
+[2018.07.28-18.08.22:781][838]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 48.828411 seconds after last jump.
+[2018.07.28-18.08.22:856][847]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 48.903427 seconds after last jump.
+[2018.07.28-18.08.22:931][856]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 48.978443 seconds after last jump.
+[2018.07.28-18.08.22:939][857]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.22:981][862]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 49.028454 seconds after last jump.
+[2018.07.28-18.08.24:346][ 23]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.25:514][163]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.561836 seconds after last jump.
+[2018.07.28-18.08.25:573][170]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.620182 seconds after last jump.
+[2018.07.28-18.08.25:581][171]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.628517 seconds after last jump.
+[2018.07.28-18.08.25:589][172]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.636852 seconds after last jump.
+[2018.07.28-18.08.25:598][173]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.645187 seconds after last jump.
+[2018.07.28-18.08.25:606][174]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.653522 seconds after last jump.
+[2018.07.28-18.08.25:615][175]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.661858 seconds after last jump.
+[2018.07.28-18.08.25:623][176]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.670193 seconds after last jump.
+[2018.07.28-18.08.25:631][177]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.678528 seconds after last jump.
+[2018.07.28-18.08.25:639][178]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.686863 seconds after last jump.
+[2018.07.28-18.08.25:648][179]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.695198 seconds after last jump.
+[2018.07.28-18.08.25:656][180]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.703533 seconds after last jump.
+[2018.07.28-18.08.25:664][181]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.711868 seconds after last jump.
+[2018.07.28-18.08.25:673][182]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.720203 seconds after last jump.
+[2018.07.28-18.08.25:681][183]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.728539 seconds after last jump.
+[2018.07.28-18.08.25:690][184]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.736874 seconds after last jump.
+[2018.07.28-18.08.25:698][185]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.745209 seconds after last jump.
+[2018.07.28-18.08.25:706][186]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.753544 seconds after last jump.
+[2018.07.28-18.08.25:722][188]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.770214 seconds after last jump.
+[2018.07.28-18.08.25:739][190]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.786884 seconds after last jump.
+[2018.07.28-18.08.25:756][192]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.803555 seconds after last jump.
+[2018.07.28-18.08.25:773][194]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.820595 seconds after last jump.
+[2018.07.28-18.08.25:798][197]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.8456 seconds after last jump.
+[2018.07.28-18.08.25:840][202]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 51.887459 seconds after last jump.
+[2018.07.28-18.08.26:169][241]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.26:289][255]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 52.337055 seconds after last jump.
+[2018.07.28-18.08.27:411][385]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.28:064][463]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 54.111607 seconds after last jump.
+[2018.07.28-18.08.28:164][475]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 54.211628 seconds after last jump.
+[2018.07.28-18.08.28:255][486]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 54.303387 seconds after last jump.
+[2018.07.28-18.08.28:347][497]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 54.395073 seconds after last jump.
+[2018.07.28-18.08.28:439][508]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 54.486759 seconds after last jump.
+[2018.07.28-18.08.28:522][518]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 54.57011 seconds after last jump.
+[2018.07.28-18.08.28:606][528]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 54.653645 seconds after last jump.
+[2018.07.28-18.08.28:630][531]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.28:664][535]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 54.71199 seconds after last jump.
+[2018.07.28-18.08.30:213][719]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.30:429][745]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 56.47773 seconds after last jump.
+[2018.07.28-18.08.30:563][761]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 56.611092 seconds after last jump.
+[2018.07.28-18.08.30:688][776]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 56.736118 seconds after last jump.
+[2018.07.28-18.08.30:804][790]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 56.85281 seconds after last jump.
+[2018.07.28-18.08.30:913][803]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 56.961357 seconds after last jump.
+[2018.07.28-18.08.31:014][815]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 57.061378 seconds after last jump.
+[2018.07.28-18.08.31:106][826]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 57.15419 seconds after last jump.
+[2018.07.28-18.08.31:199][837]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 57.247055 seconds after last jump.
+[2018.07.28-18.08.31:273][846]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.31:282][847]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 57.330406 seconds after last jump.
+[2018.07.28-18.08.33:165][ 73]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.33:290][ 88]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 59.339169 seconds after last jump.
+[2018.07.28-18.08.33:424][104]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 59.47253 seconds after last jump.
+[2018.07.28-18.08.33:557][120]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 59.605892 seconds after last jump.
+[2018.07.28-18.08.33:690][136]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 59.739254 seconds after last jump.
+[2018.07.28-18.08.33:832][153]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 59.880962 seconds after last jump.
+[2018.07.28-18.08.33:990][172]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 60.03933 seconds after last jump.
+[2018.07.28-18.08.34:157][192]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 60.206032 seconds after last jump.
+[2018.07.28-18.08.34:324][212]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 60.373035 seconds after last jump.
+[2018.07.28-18.08.34:349][215]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.34:390][220]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 60.439716 seconds after last jump.
+[2018.07.28-18.08.35:040][298]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.35:082][303]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.131535 seconds after last jump.
+[2018.07.28-18.08.35:108][306]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.15654 seconds after last jump.
+[2018.07.28-18.08.35:124][308]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.17321 seconds after last jump.
+[2018.07.28-18.08.35:141][310]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.18988 seconds after last jump.
+[2018.07.28-18.08.35:158][312]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.206551 seconds after last jump.
+[2018.07.28-18.08.35:166][313]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.214886 seconds after last jump.
+[2018.07.28-18.08.35:174][314]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.223221 seconds after last jump.
+[2018.07.28-18.08.35:183][315]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.231556 seconds after last jump.
+[2018.07.28-18.08.35:191][316]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.239891 seconds after last jump.
+[2018.07.28-18.08.35:199][317]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.248226 seconds after last jump.
+[2018.07.28-18.08.35:208][318]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.256561 seconds after last jump.
+[2018.07.28-18.08.35:216][319]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.264896 seconds after last jump.
+[2018.07.28-18.08.35:224][320]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.273232 seconds after last jump.
+[2018.07.28-18.08.35:233][321]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.281567 seconds after last jump.
+[2018.07.28-18.08.35:241][322]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.289902 seconds after last jump.
+[2018.07.28-18.08.35:249][323]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.298237 seconds after last jump.
+[2018.07.28-18.08.35:257][324]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.306572 seconds after last jump.
+[2018.07.28-18.08.35:266][325]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.314907 seconds after last jump.
+[2018.07.28-18.08.35:274][326]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.323242 seconds after last jump.
+[2018.07.28-18.08.35:282][327]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.331577 seconds after last jump.
+[2018.07.28-18.08.35:291][328]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.339912 seconds after last jump.
+[2018.07.28-18.08.35:299][329]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.348248 seconds after last jump.
+[2018.07.28-18.08.35:308][330]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.356583 seconds after last jump.
+[2018.07.28-18.08.35:315][331]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.364918 seconds after last jump.
+[2018.07.28-18.08.35:324][332]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.373253 seconds after last jump.
+[2018.07.28-18.08.35:332][333]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.381588 seconds after last jump.
+[2018.07.28-18.08.35:341][334]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.389923 seconds after last jump.
+[2018.07.28-18.08.35:349][335]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.398258 seconds after last jump.
+[2018.07.28-18.08.35:357][336]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.406593 seconds after last jump.
+[2018.07.28-18.08.35:366][337]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.414928 seconds after last jump.
+[2018.07.28-18.08.35:374][338]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.423264 seconds after last jump.
+[2018.07.28-18.08.35:382][339]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.431599 seconds after last jump.
+[2018.07.28-18.08.35:391][340]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.439934 seconds after last jump.
+[2018.07.28-18.08.35:399][341]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.448269 seconds after last jump.
+[2018.07.28-18.08.35:407][342]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.456604 seconds after last jump.
+[2018.07.28-18.08.35:416][343]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.464939 seconds after last jump.
+[2018.07.28-18.08.35:424][344]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.473274 seconds after last jump.
+[2018.07.28-18.08.35:433][345]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.481609 seconds after last jump.
+[2018.07.28-18.08.35:440][346]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.489944 seconds after last jump.
+[2018.07.28-18.08.35:449][347]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.49828 seconds after last jump.
+[2018.07.28-18.08.35:457][348]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.506615 seconds after last jump.
+[2018.07.28-18.08.35:466][349]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.51495 seconds after last jump.
+[2018.07.28-18.08.35:474][350]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.523331 seconds after last jump.
+[2018.07.28-18.08.35:491][352]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.540001 seconds after last jump.
+[2018.07.28-18.08.35:515][355]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.35:516][355]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 61.565121 seconds after last jump.
+[2018.07.28-18.08.36:091][424]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.36:643][487]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 62.69212 seconds after last jump.
+[2018.07.28-18.08.36:793][505]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 62.842152 seconds after last jump.
+[2018.07.28-18.08.36:943][523]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 62.992184 seconds after last jump.
+[2018.07.28-18.08.37:093][541]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 63.142216 seconds after last jump.
+[2018.07.28-18.08.37:217][556]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.37:234][558]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 63.283913 seconds after last jump.
+[2018.07.28-18.08.38:002][650]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.38:085][660]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 64.134903 seconds after last jump.
+[2018.07.28-18.08.38:185][672]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 64.234879 seconds after last jump.
+[2018.07.28-18.08.38:293][685]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 64.343185 seconds after last jump.
+[2018.07.28-18.08.38:402][698]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 64.451492 seconds after last jump.
+[2018.07.28-18.08.38:510][711]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 64.559799 seconds after last jump.
+[2018.07.28-18.08.38:618][724]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 64.668106 seconds after last jump.
+[2018.07.28-18.08.38:727][737]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 64.776413 seconds after last jump.
+[2018.07.28-18.08.38:835][750]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 64.88472 seconds after last jump.
+[2018.07.28-18.08.38:952][764]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 65.001358 seconds after last jump.
+[2018.07.28-18.08.39:060][777]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 65.109665 seconds after last jump.
+[2018.07.28-18.08.39:194][793]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 65.242966 seconds after last jump.
+[2018.07.28-18.08.40:027][893]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 66.076096 seconds after last jump.
+[2018.07.28-18.08.40:035][894]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 66.084427 seconds after last jump.
+[2018.07.28-18.08.40:044][895]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 66.092758 seconds after last jump.
+[2018.07.28-18.08.40:052][896]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 66.101089 seconds after last jump.
+[2018.07.28-18.08.40:169][910]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.40:202][914]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 66.251053 seconds after last jump.
+[2018.07.28-18.08.41:060][ 17]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.41:143][ 27]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 67.192513 seconds after last jump.
+[2018.07.28-18.08.41:227][ 37]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 67.275826 seconds after last jump.
+[2018.07.28-18.08.41:277][ 43]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.41:302][ 46]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 67.350822 seconds after last jump.
+[2018.07.28-18.08.41:802][106]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.41:885][116]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 67.934013 seconds after last jump.
+[2018.07.28-18.08.41:969][126]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 68.017326 seconds after last jump.
+[2018.07.28-18.08.42:061][137]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 68.108971 seconds after last jump.
+[2018.07.28-18.08.42:152][148]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 68.200615 seconds after last jump.
+[2018.07.28-18.08.43:269][282]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 69.317009 seconds after last jump.
+[2018.07.28-18.08.43:278][283]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 69.32534 seconds after last jump.
+[2018.07.28-18.08.43:286][284]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 69.333672 seconds after last jump.
+[2018.07.28-18.08.43:295][285]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 69.342003 seconds after last jump.
+[2018.07.28-18.08.43:303][286]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 69.350639 seconds after last jump.
+[2018.07.28-18.08.43:311][287]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 69.358971 seconds after last jump.
+[2018.07.28-18.08.43:319][288]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 69.367302 seconds after last jump.
+[2018.07.28-18.08.43:328][289]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 69.375633 seconds after last jump.
+[2018.07.28-18.08.43:511][311]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.43:661][329]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 69.708885 seconds after last jump.
+[2018.07.28-18.08.45:419][540]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jump lasted 71.46682 seconds.
+[2018.07.28-18.08.45:419][540]LogBlueprintUserMessages: [BP_Vanguard_C_0] Launched at 826.875 cm/s or whatever.
+[2018.07.28-18.08.45:728][577]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jump lasted 71.775078 seconds.
+[2018.07.28-18.08.45:728][577]LogBlueprintUserMessages: [BP_Vanguard_C_0] Launched at 826.875 cm/s or whatever.
+[2018.07.28-18.08.46:110][623]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.47:461][785]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.48:411][899]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 74.457825 seconds after last jump.
+[2018.07.28-18.08.48:853][952]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jump lasted 74.899384 seconds.
+[2018.07.28-18.08.48:853][952]LogBlueprintUserMessages: [BP_Vanguard_C_0] Launched at 826.875 cm/s or whatever.
+[2018.07.28-18.08.49:086][980]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jump lasted 75.132668 seconds.
+[2018.07.28-18.08.49:086][980]LogBlueprintUserMessages: [BP_Vanguard_C_0] Launched at 826.875 cm/s or whatever.
+[2018.07.28-18.08.51:354][252]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 77.399208 seconds after last jump.
+[2018.07.28-18.08.52:045][335]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.52:128][345]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 78.174019 seconds after last jump.
+[2018.07.28-18.08.52:212][355]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 78.257332 seconds after last jump.
+[2018.07.28-18.08.52:295][365]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 78.340675 seconds after last jump.
+[2018.07.28-18.08.52:378][375]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 78.423988 seconds after last jump.
+[2018.07.28-18.08.52:462][385]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 78.507301 seconds after last jump.
+[2018.07.28-18.08.52:545][395]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 78.590614 seconds after last jump.
+[2018.07.28-18.08.52:637][406]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 78.682259 seconds after last jump.
+[2018.07.28-18.08.52:728][417]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 78.773903 seconds after last jump.
+[2018.07.28-18.08.52:820][428]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 78.865547 seconds after last jump.
+[2018.07.28-18.08.52:912][439]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 78.957191 seconds after last jump.
+[2018.07.28-18.08.53:004][450]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 79.048836 seconds after last jump.
+[2018.07.28-18.08.53:270][482]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.53:663][529]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 79.707909 seconds after last jump.
+[2018.07.28-18.08.54:404][618]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.54:487][628]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 80.532707 seconds after last jump.
+[2018.07.28-18.08.54:571][638]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 80.61602 seconds after last jump.
+[2018.07.28-18.08.54:655][648]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 80.699333 seconds after last jump.
+[2018.07.28-18.08.54:738][658]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 80.782646 seconds after last jump.
+[2018.07.28-18.08.54:829][669]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 80.87429 seconds after last jump.
+[2018.07.28-18.08.54:921][680]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 80.965935 seconds after last jump.
+[2018.07.28-18.08.54:979][687]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 81.024254 seconds after last jump.
+[2018.07.28-18.08.54:988][688]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 81.032585 seconds after last jump.
+[2018.07.28-18.08.54:996][689]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 81.040916 seconds after last jump.
+[2018.07.28-18.08.55:005][690]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 81.049248 seconds after last jump.
+[2018.07.28-18.08.55:013][691]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 81.057579 seconds after last jump.
+[2018.07.28-18.08.55:022][692]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 81.065918 seconds after last jump.
+[2018.07.28-18.08.55:029][693]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.55:030][693]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 81.074249 seconds after last jump.
+[2018.07.28-18.08.56:179][831]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.56:988][928]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 83.032539 seconds after last jump.
+[2018.07.28-18.08.57:063][937]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 83.107521 seconds after last jump.
+[2018.07.28-18.08.57:138][946]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 83.182503 seconds after last jump.
+[2018.07.28-18.08.57:213][955]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 83.257484 seconds after last jump.
+[2018.07.28-18.08.57:288][964]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 83.332466 seconds after last jump.
+[2018.07.28-18.08.57:363][973]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 83.407448 seconds after last jump.
+[2018.07.28-18.08.57:388][976]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.57:430][981]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 83.474098 seconds after last jump.
+[2018.07.28-18.08.58:296][ 85]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.58:405][ 98]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.448929 seconds after last jump.
+[2018.07.28-18.08.58:530][113]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.573898 seconds after last jump.
+[2018.07.28-18.08.58:655][128]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.698868 seconds after last jump.
+[2018.07.28-18.08.58:680][131]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.723862 seconds after last jump.
+[2018.07.28-18.08.58:688][132]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.732193 seconds after last jump.
+[2018.07.28-18.08.58:696][133]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.740532 seconds after last jump.
+[2018.07.28-18.08.58:705][134]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.748863 seconds after last jump.
+[2018.07.28-18.08.58:713][135]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.757195 seconds after last jump.
+[2018.07.28-18.08.58:722][136]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.765526 seconds after last jump.
+[2018.07.28-18.08.58:730][137]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.773857 seconds after last jump.
+[2018.07.28-18.08.58:738][138]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.782188 seconds after last jump.
+[2018.07.28-18.08.58:747][139]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.79052 seconds after last jump.
+[2018.07.28-18.08.58:755][140]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.798851 seconds after last jump.
+[2018.07.28-18.08.58:763][141]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.807182 seconds after last jump.
+[2018.07.28-18.08.58:771][142]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.815514 seconds after last jump.
+[2018.07.28-18.08.58:780][143]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.823845 seconds after last jump.
+[2018.07.28-18.08.58:788][144]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.832176 seconds after last jump.
+[2018.07.28-18.08.58:797][145]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.840508 seconds after last jump.
+[2018.07.28-18.08.58:805][146]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.848839 seconds after last jump.
+[2018.07.28-18.08.58:813][147]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.85717 seconds after last jump.
+[2018.07.28-18.08.58:821][148]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.865501 seconds after last jump.
+[2018.07.28-18.08.58:830][149]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.873833 seconds after last jump.
+[2018.07.28-18.08.58:838][150]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.882164 seconds after last jump.
+[2018.07.28-18.08.58:847][151]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.890495 seconds after last jump.
+[2018.07.28-18.08.58:855][152]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.898827 seconds after last jump.
+[2018.07.28-18.08.58:863][153]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.907158 seconds after last jump.
+[2018.07.28-18.08.58:872][154]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.915489 seconds after last jump.
+[2018.07.28-18.08.58:880][155]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.92382 seconds after last jump.
+[2018.07.28-18.08.58:888][156]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.932152 seconds after last jump.
+[2018.07.28-18.08.58:897][157]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.940483 seconds after last jump.
+[2018.07.28-18.08.58:905][158]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.58:905][158]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 84.948814 seconds after last jump.
+[2018.07.28-18.08.59:755][260]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.08.59:823][268]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 85.865959 seconds after last jump.
+[2018.07.28-18.08.59:889][276]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 85.932648 seconds after last jump.
+[2018.07.28-18.08.59:914][279]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.08.59:947][283]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 85.990967 seconds after last jump.
+[2018.07.28-18.09.00:873][394]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack on.
+[2018.07.28-18.09.00:948][403]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 86.991447 seconds after last jump.
+[2018.07.28-18.09.01:023][412]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 87.066429 seconds after last jump.
+[2018.07.28-18.09.01:098][421]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 87.141411 seconds after last jump.
+[2018.07.28-18.09.01:173][430]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 87.216393 seconds after last jump.
+[2018.07.28-18.09.01:248][439]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 87.291374 seconds after last jump.
+[2018.07.28-18.09.01:331][449]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 87.374687 seconds after last jump.
+[2018.07.28-18.09.01:415][459]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 87.458 seconds after last jump.
+[2018.07.28-18.09.01:498][469]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 87.541313 seconds after last jump.
+[2018.07.28-18.09.01:582][479]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 87.624626 seconds after last jump.
+[2018.07.28-18.09.01:648][487]LogBlueprintUserMessages: [BP_Vanguard_C_0] Jet pack off.
+[2018.07.28-18.09.01:665][489]LogBlueprintUserMessages: [BP_Vanguard_C_0] Landed 87.707954 seconds after last jump.
+[2018.07.28-18.09.03:017][651]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel' has LevelScriptBlueprint '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD' with GeneratedClass '/Game/NewStreak/Maps/ClashHD.ClashHD_C' with ClassGeneratedBy '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD'
+[2018.07.28-18.09.03:030][651]LogSlate: Window 'Lawbreakers Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.28-18.09.03:065][651]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.28-18.09.03:065][651]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.28-18.09.03:066][651]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.28-18.09.03:066][651]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.28-18.09.03:066][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.28-18.09.03:066][651]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel' has LevelScriptBlueprint '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD' with GeneratedClass '/Game/NewStreak/Maps/ClashHD.ClashHD_C' with ClassGeneratedBy '/Game/NewStreak/Maps/ClashHD.ClashHD:PersistentLevel.ClashHD'
+[2018.07.28-18.09.03:135][653]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.07.28-18.09.03:136][653]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.28-18.10.20:545][201]LogSlate: Window 'Lawbreakers - Unreal Editor' being destroyed
+[2018.07.28-18.10.20:715][202]Cmd: QUIT_EDITOR
+[2018.07.28-18.10.21:137][202]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.28-18.10.21:144][202]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.28-18.10.21:145][202]LogExit: Preparing to exit.
+[2018.07.28-18.10.21:591][202]LogDirectoryWatcher: A directory notification for 'C:/Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/' was aborted.
+[2018.07.28-18.10.21:643][202]LogExit: Editor shut down
+[2018.07.28-18.10.21:646][202]LogExit: Transaction tracking system shut down
+[2018.07.28-18.10.21:646][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80d42bc40, Size=72
+[2018.07.28-18.10.21:646][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f809cec540, Size=72
+[2018.07.28-18.10.21:646][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f809cc4e00, Size=256
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82ea6ae80, Size=112
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82ea63a48, Size=24
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82ea63928, Size=24
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82ea8f820, Size=224
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82e9f3c10, Size=112
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e6d0d00, Size=672
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80f17e940, Size=416
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82eb42a90, Size=4
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80f127a00, Size=352
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80f12ae00, Size=672
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80f125300, Size=352
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80f0b1900, Size=672
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80eff7d80, Size=608
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80f045600, Size=672
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82eb8e4d0, Size=40
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e387700, Size=352
+[2018.07.28-18.10.21:647][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f80e4fa8e0, Size=144
+[2018.07.28-18.10.21:648][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f8578551f8, Size=24
+[2018.07.28-18.10.21:648][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82bb0d210, Size=40
+[2018.07.28-18.10.21:648][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f83c26ba00, Size=384
+[2018.07.28-18.10.21:648][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f85bbd48e0, Size=112
+[2018.07.28-18.10.21:648][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f85eacaa60, Size=32
+[2018.07.28-18.10.21:648][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f833f9d660, Size=96
+[2018.07.28-18.10.21:649][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82bb33db8, Size=4
+[2018.07.28-18.10.21:649][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f82bb33db0, Size=4
+[2018.07.28-18.10.21:651][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f85b905780, Size=24
+[2018.07.28-18.10.21:652][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f833c9b400, Size=736
+[2018.07.28-18.10.21:652][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f833c9b100, Size=672
+[2018.07.28-18.10.21:652][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f89bfc1900, Size=736
+[2018.07.28-18.10.21:652][202]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f89bfc1000, Size=672
+[2018.07.28-18.10.21:703][202]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.28-18.10.21:703][202]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/' was aborted.
+[2018.07.28-18.10.21:704][202]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.28-18.10.21:704][202]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.07.28-18.10.21:704][202]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.28-18.10.21:704][202]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.28-18.10.21:704][202]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.28-18.10.21:704][202]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.28-18.10.21:778][202]LogExit: Object subsystem successfully closed.
+[2018.07.28-18.10.21:793][202]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.28-18.10.21:796][202]LogD3D11RHI: Shutdown
+[2018.07.28-18.10.21:796][202]LogD3D11RHI: CleanupD3DDevice
+[2018.07.28-18.10.21:798][202]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.28-18.10.21:811][202]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (586)
+[2018.07.28-18.10.21:811][202]LogModuleManager: Shutting down and abandoning module Voice (584)
+[2018.07.28-18.10.21:811][202]LogModuleManager: Shutting down and abandoning module BlueprintGraph (582)
+[2018.07.28-18.10.21:811][202]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (580)
+[2018.07.28-18.10.21:811][202]LogModuleManager: Shutting down and abandoning module SceneOutliner (578)
+[2018.07.28-18.10.21:811][202]LogModuleManager: Shutting down and abandoning module AddContentDialog (576)
+[2018.07.28-18.10.21:811][202]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module WidgetCarousel (575)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module EditorWidgets (572)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module CollectionManager (570)
+[2018.07.28-18.10.21:812][202]LogDirectoryWatcher: A directory notification for 'C:/Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/Collections/' was aborted.
+[2018.07.28-18.10.21:812][202]LogDirectoryWatcher: A directory notification for 'C:/Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Content/Developers/ConnorMcGeary/Collections/' was aborted.
+[2018.07.28-18.10.21:812][202]LogDirectoryWatcher: A directory notification for 'C:/Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Saved/Collections/' was aborted.
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module StatsViewer (568)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module FoliageEdit (566)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module LandscapeEditor (564)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module MeshPaintMode (562)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (560)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module ActorPickerMode (558)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module GeometryMode (556)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module TextureAlignMode (554)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module BspMode (552)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (550)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module HardwareSurvey (548)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (546)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module AutomationWorker (544)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (542)
+[2018.07.28-18.10.21:812][202]LogModuleManager: Shutting down and abandoning module SequenceRecorder (541)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (538)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (536)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module PlacementMode (535)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module MaterialEditor (534)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (530)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (528)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (526)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (524)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (522)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (520)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (518)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (516)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (514)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (512)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module CharacterAI (510)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module SmartSnapping (508)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module SessionServices (506)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module ViewportSnapping (504)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module ViewportInteraction (502)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module ClothPainter (500)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (499)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module LogVisualizer (496)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module IntroTutorials (494)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (493)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (490)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (488)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (486)
+[2018.07.28-18.10.21:813][202]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (485)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (482)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (480)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (478)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module InputBindingEditor (476)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module MergeActors (474)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (472)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module LocalizationService (471)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module HardwareTargeting (468)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (466)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module UndoHistory (464)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module XmlParser (462)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module Blutility (460)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (458)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (457)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (454)
+[2018.07.28-18.10.21:914][202]LogModuleManager: Shutting down and abandoning module SettingsEditor (452)
+[2018.07.28-18.10.21:915][202]LogModuleManager: Shutting down and abandoning module ProjectLauncher (450)
+[2018.07.28-18.10.21:915][202]LogModuleManager: Shutting down and abandoning module SessionFrontend (448)
+[2018.07.28-18.10.21:915][202]LogModuleManager: Shutting down and abandoning module ProfilerClient (446)
+[2018.07.28-18.10.21:915][202]LogModuleManager: Shutting down and abandoning module DeviceManager (444)
+[2018.07.28-18.10.21:915][202]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (443)
+[2018.07.28-18.10.21:969][202]LogModuleManager: Shutting down and abandoning module AutomationController (440)
+[2018.07.28-18.10.21:969][202]LogModuleManager: Shutting down and abandoning module AutomationWindow (438)
+[2018.07.28-18.10.21:969][202]LogModuleManager: Shutting down and abandoning module Layers (436)
+[2018.07.28-18.10.21:969][202]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (434)
+[2018.07.28-18.10.21:969][202]LogModuleManager: Shutting down and abandoning module DetailCustomizations (432)
+[2018.07.28-18.10.21:969][202]LogModuleManager: Shutting down and abandoning module PackagesDialog (430)
+[2018.07.28-18.10.21:969][202]LogModuleManager: Shutting down and abandoning module Persona (428)
+[2018.07.28-18.10.21:969][202]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (427)
+[2018.07.28-18.10.21:970][202]LogModuleManager: Shutting down and abandoning module AnimGraph (425)
+[2018.07.28-18.10.21:970][202]LogModuleManager: Shutting down and abandoning module Kismet (422)
+[2018.07.28-18.10.21:974][202]LogModuleManager: Shutting down and abandoning module GraphEditor (420)
+[2018.07.28-18.10.21:974][202]LogModuleManager: Shutting down and abandoning module ClassViewer (418)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module Toolbox (416)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module ModuleUI (414)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module MovieSceneTools (412)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module OutputLog (410)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module GammaUI (408)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module Documentation (406)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (404)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module MovieScene (402)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (400)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module LauncherPlatform (398)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module AnalyticsET (396)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module PortalServices (394)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module PortalRpc (392)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module MessagingRpc (390)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module AIModule (388)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module GameplayDebugger (387)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module AITestSuite (385)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module DesktopPlatform (382)
+[2018.07.28-18.10.21:975][202]LogModuleManager: Shutting down and abandoning module ProfilerService (380)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module TaskGraph (378)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module SteamVRController (376)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (374)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (372)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module OculusInput (370)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (368)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (366)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module CableComponent (364)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module AudioCapture (362)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (360)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module AndroidPermission (358)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (356)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (354)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (352)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module MediaCompositing (350)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module LinearTimecode (348)
+[2018.07.28-18.10.22:146][202]LogModuleManager: Shutting down and abandoning module ImgMedia (346)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module HTML5Networking (344)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module AlembicImporter (342)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module AlembicLibrary (341)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module GeometryCache (340)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (339)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module DatasmithContent (334)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (332)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module PluginBrowser (330)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (328)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (326)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module CryptoKeys (324)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (322)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (320)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module UObjectPlugin (318)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (316)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (314)
+[2018.07.28-18.10.22:148][202]LogModuleManager: Shutting down and abandoning module GitSourceControl (312)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module SourceControl (311)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (308)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module MeshPaint (299)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (296)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module AdvancedSessions (294)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module OculusEditor (286)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (284)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (282)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (280)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module ActorSequence (278)
+[2018.07.28-18.10.22:149][202]LogModuleManager: Shutting down and abandoning module UdpMessaging (276)
+[2018.07.28-18.10.22:250][202]LogModuleManager: Shutting down and abandoning module TcpMessaging (274)
+[2018.07.28-18.10.22:535][202]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (272)
+[2018.07.28-18.10.22:535][202]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (270)
+[2018.07.28-18.10.22:535][202]LogModuleManager: Shutting down and abandoning module FacialAnimation (268)
+[2018.07.28-18.10.22:535][202]LogModuleManager: Shutting down and abandoning module DataValidation (266)
+[2018.07.28-18.10.22:535][202]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (264)
+[2018.07.28-18.10.22:535][202]LogModuleManager: Shutting down and abandoning module LevelEditor (263)
+[2018.07.28-18.10.22:535][202]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (262)
+[2018.07.28-18.10.22:535][202]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (260)
+[2018.07.28-18.10.22:535][202]LogModuleManager: Shutting down and abandoning module MainFrame (258)
+[2018.07.28-18.10.22:536][202]LogModuleManager: Shutting down and abandoning module HotReload (257)
+[2018.07.28-18.10.22:536][202]LogDirectoryWatcher: A directory notification for 'C:/Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Plugins/AdvancedSessions/AdvancedSessions/Binaries/Win64' was aborted.
+[2018.07.28-18.10.22:536][202]LogDirectoryWatcher: A directory notification for 'C:/Users/Connor McGeary/Documents/Unreal Projects/NewStreak/Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/Win64' was aborted.
+[2018.07.28-18.10.22:536][202]LogModuleManager: Shutting down and abandoning module ContentBrowser (253)
+[2018.07.28-18.10.22:537][202]LogModuleManager: Shutting down and abandoning module TreeMap (251)
+[2018.07.28-18.10.22:537][202]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (248)
+[2018.07.28-18.10.22:537][202]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (246)
+[2018.07.28-18.10.22:537][202]LogModuleManager: Shutting down and abandoning module LiveLink (244)
+[2018.07.28-18.10.23:322][202]LogModuleManager: Shutting down and abandoning module Paper2D (242)
+[2018.07.28-18.10.23:322][202]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (240)
+[2018.07.28-18.10.23:322][202]LogModuleManager: Shutting down and abandoning module WmfMedia (238)
+[2018.07.28-18.10.23:323][202]LogModuleManager: Shutting down and abandoning module Media (237)
+[2018.07.28-18.10.23:329][202]LogModuleManager: Shutting down and abandoning module PacketHandler (234)
+[2018.07.28-18.10.23:329][202]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (232)
+[2018.07.28-18.10.23:329][202]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (230)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module MediaAssets (228)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module Overlay (226)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module OverlayEditor (225)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module VREditor (222)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module StringTableEditor (220)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (218)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (216)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module FunctionalTesting (214)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (212)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (211)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module UMG (208)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module UMGEditor (207)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module Sequencer (206)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module MessageLog (203)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module SlateReflector (198)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module Slate (196)
+[2018.07.28-18.10.23:330][202]LogModuleManager: Shutting down and abandoning module EditorStyle (194)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module MRMesh (192)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (190)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (188)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module XAudio2 (186)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module Networking (184)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module Core (182)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module LevelSequence (180)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module KismetCompiler (178)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module MeshUtilities (176)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (175)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (174)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (173)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (171)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (169)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module MaterialBaking (165)
+[2018.07.28-18.10.23:331][202]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2018.07.28-18.10.23:332][202]LogModuleManager: Shutting down and abandoning module DerivedDataCache (158)
+[2018.07.28-18.10.23:381][202]LogDerivedDataCache: Shutdown
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module XGEController (156)
+[2018.07.28-18.10.23:381][202]LogXGEController: Cleaning working directory: C:/Users/Connor McGeary/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module TargetPlatform (154)
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (153)
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (151)
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (149)
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (147)
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (145)
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (143)
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (141)
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (139)
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (137)
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (135)
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module ImageWrapper (134)
+[2018.07.28-18.10.23:381][202]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (131)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (129)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (127)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (125)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (105)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (103)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (101)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (99)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (97)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (95)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (93)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (91)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (89)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (87)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (85)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (83)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (81)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (79)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (77)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (75)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (73)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2018.07.28-18.10.23:382][202]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2018.07.28-18.10.23:382][202]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.28-18.10.23:382][202]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.28-18.10.23:383][202]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.28-18.10.23:383][202]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.28-18.10.23:383][202]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.28-18.10.23:383][202]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.28-18.10.23:383][202]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.28-18.10.23:383][202]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B90A2FFE7-4DFE-AB85-BD83-96BC498F8D6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=f732db214d61cbd6467c70b4bb2d73b4%7C3176e5e854ba490ca79ebe146d1b0697%7C075feb0c-c114-441e-91dc-11deddf8bc08&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.28-18.10.23:395][202]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.28-18.10.23:396][202]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.28-18.10.23:396][202]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.28-18.10.23:396][202]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.28-18.10.23:396][202]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.28-18.10.23:396][202]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.28-18.10.23:396][202]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.28-18.10.23:396][202]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.28-18.10.23:396][202]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.28-18.10.23:396][202]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.28-18.10.23:396][202]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.28-18.10.23:396][202]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.28-18.10.23:397][202]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.28-18.10.23:397][202]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.28-18.10.23:397][202]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.28-18.10.23:397][202]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.28-18.10.23:397][202]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.28-18.10.23:397][202]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.28-18.10.23:397][202]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.28-18.10.23:401][202]LogExit: Exiting.
+[2018.07.28-18.10.23:411][202]Log file closed, 07/28/18 13:10:23
