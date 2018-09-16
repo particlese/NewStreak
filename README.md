@@ -49,9 +49,10 @@ Git is the open source distributed version control system that facilitates GitHu
    2. Commit or stash any changes you've made to your current local branch, if needed.
    2. Add a new remote repository to your local repository's list of them.  (The "upstream" mentioned above is the same sort of thing.)  In this example, the new remote gets the name "volatile":  
       `$ git remote add volatile https://github.com/ProjectHadronium/NewStreak.git`
-   3. Create a new branch which will track this repository.  (I.e. simple push and pull commands should work as expected.)  In this example, we also call the local branch "volatile", but this is not necessary.  It just needs a unique local branch name:  
+   3. Create a new branch which will track this repository.  In this example, we also call the local branch "volatile", but this is not necessary.  It just needs a unique local branch name:  
       `$ git checkout -b volatile volatile/master`
-   4. Push and pull to your heart's content, but do communicate your changes in the Discord -- especially if there are conflicts or changes which might affect others.
+   4. For now, pushes are a little fancier than normal:  
+      `$ git push volatile HEAD:master`
 
 ## To-Do
 - [ ] Develop
